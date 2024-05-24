@@ -10,7 +10,7 @@ O jogo roda na **console**, possui **três embaralhadores** e **três dinâmicas
 O Jogo das Palavras Embaralhadas é uma joia da engenharia de software que contempla **Modelagem CRC**, **Tell Don't Ask**, **Law of Demeter**, **Herança**, **Polimorfismo** e o padrão de projetos **Factory Pattern**. <br>
 
 Para maiores informações, visite a página oficial do projeto: <br>
-<https://togtec.dev.br/projetos/jogo-das-palavras-embaralhadas/resumo.php>
+www.togtec.dev.br/projetos/jogo-das-palavras-embaralhadas/resumo.php
 
 ## Tecnologias
   * Java SE (11)
@@ -22,6 +22,9 @@ Para maiores informações, visite a página oficial do projeto: <br>
 ## Captura de tela
 <center>
 <img src="doc/img/img-006-tela-partida-em-curso-nivel-avancado.png" alt="Tela Partida em Curso">
+
+Ver galeria completa de imagens em: <br>
+www.togtec.com.br/projetos/jogo-das-palavras-embaralhadas/imagens.php
 
 ## Funcionalidades
 1. Usuário cadastra um Jogador no sistema (define nome e apelido)
