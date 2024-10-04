@@ -2,12 +2,12 @@
 
 ## Escolha seu Idioma <br> Choose Your Language 
 
-- <a name="versão-em-português">Português (Brasil)</a>
-- [<img src="https://github.com/togtec/togtec/blob/main/img/pt-br.png" alt="PT-BR" /> Português (Brasil)](#versão-em-português)
-- [<img src="https://github.com/togtec/togtec/blob/main/img/en-us.png" alt="EN-US" /> English (United States)](#english-version)
+- [Português (Brasil)](#versão-em-português)
+- [English (United States)](#english-version)
 
 <br>
 
+<a name="versão-em-português"></a>
 ## <img src="https://github.com/togtec/togtec/blob/main/img/pt-br.png" alt="PT-BR" /> Versão em Português
 
 ### Jogo das Palavras Embaralhadas - Resumo
