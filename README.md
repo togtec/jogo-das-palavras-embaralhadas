@@ -2,8 +2,8 @@
 
 ## Escolha seu Idioma <br> Choose Your Language 
 
-- [Português (Brasil)](#versão-em-português)
-- [English (United States)](#english-version)
+- [<img src="https://github.com/togtec/togtec/blob/main/img/pt-br.png" alt="PT-BR" /> Português (Brasil)](#versão-em-português)
+- [<img src="https://github.com/togtec/togtec/blob/main/img/en-us.png" alt="EN-US" /> English (United States)](#english-version)
 
 <br>
 
