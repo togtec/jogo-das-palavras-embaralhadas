@@ -1,3 +1,12 @@
+# Scrambled Words Game | Jogo das Palavras Embaralhadas
+
+## Choose Your Language | Escolha seu Idioma
+
+- [English](#english-version)
+- [Português](#versão-em-português)
+
+
+
 ## Jogo das Palavras Embaralhadas
 
 ## Resumo
@@ -25,6 +34,9 @@ www.togtec.com.br/projetos/jogo-das-palavras-embaralhadas/resumo.php
 
 Ver galeria completa de imagens em: <br>
 www.togtec.com.br/projetos/jogo-das-palavras-embaralhadas/imagens.php
+
+## English Version
+teste
 
 ## Funcionalidades
 1. Usuário cadastra um Jogador no sistema (define nome e apelido)
