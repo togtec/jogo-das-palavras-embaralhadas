@@ -63,6 +63,7 @@ Executar o Jogo das Palavras Embaralhadas em sua máquina é muito fácil. Certi
 
 <br>
 
+<a name="english-version"></a>
 ## <img src="https://github.com/togtec/togtec/blob/main/img/en-us.png" alt="EN-US" /> English Version
 
 ### Scrambled Words Game - Overview
