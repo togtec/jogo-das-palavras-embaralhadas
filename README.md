@@ -2,15 +2,13 @@
 
 ## Escolha seu Idioma | Choose Your Language 
 
-- [<img src="https://github.com/togtec/togtec/blob/main/img/pt-br.png" alt="PT-BR" /> PT-BR](#versão-em-português)
-- [<img src="https://github.com/togtec/togtec/blob/main/img/en-us.png" alt="EN-US" /> EN-US](#versão-em-português)
+- [<img src="https://github.com/togtec/togtec/blob/main/img/pt-br.png" alt="PT-BR" /> Português (Brasil)](#versão-em-português)
+- [<img src="https://github.com/togtec/togtec/blob/main/img/en-us.png" alt="EN-US" /> English (United States)](#english-version)
 
 
+## Versão em Português
 
-
-## Jogo das Palavras Embaralhadas
-
-## Resumo
+### Jogo das Palavras Embaralhadas - Resumo
 O Jogo das Palavras Embaralhadas é um projeto de **criação original** desenvolvido como trabalho final de conclusão do curso **Orientação a Objetos com Java**. O jogo apresenta uma lista de palavras embaralhadas para que o(a) Jogador(a) possa adivinhá-las mediante palpites.
 
 A aplicação permite o cadastro de vários jogadores, que podem competir entre si, em um estimulante sistema de **ranking**.
@@ -22,21 +20,21 @@ O Jogo das Palavras Embaralhadas é uma joia da engenharia de software que conte
 Para maiores informações, visite a página oficial do projeto: <br>
 www.togtec.com.br/projetos/jogo-das-palavras-embaralhadas/resumo.php
 
-## Tecnologias
+### Tecnologias
   * Java SE (11)
   * JUnit (5)
   
-## IDE  
+### IDE  
   * Eclipse
 
-## Captura de tela
+### Captura de tela
 <center>
 <img src="doc/img/img-006-tela-partida-em-curso-nivel-avancado.png" alt="Tela Partida em Curso">
 
 Ver galeria completa de imagens em: <br>
 www.togtec.com.br/projetos/jogo-das-palavras-embaralhadas/imagens.php
 
-## Funcionalidades
+### Funcionalidades
 1. Usuário cadastra um Jogador no sistema (define nome e apelido)
 2. Usuário seleciona o Jogador cadastrado
 3. Jogador seleciona o **Nível de Experiência** do Jogador
@@ -51,7 +49,7 @@ www.togtec.com.br/projetos/jogo-das-palavras-embaralhadas/imagens.php
 6. Jogador acessa o Relatório de Progresso (contém a pontuação final da partida)
 7. Jogador acessa o Ranking (para ver sua posição em relação aos demais concorrentes)
 
-## Executando o código localmente
+### Executando o código localmente
 Executar o Jogo das Palavras Embaralhadas em sua máquina é muito fácil. Certifique-se de ter o Eclipse instalado e siga as instruções abaixo. 
 
 1. Baixe o projeto.
@@ -61,6 +59,6 @@ Executar o Jogo das Palavras Embaralhadas em sua máquina é muito fácil. Certi
 5. Configure a console do Eclipse — ver como na seção **Configurações** do **Vídeo de Divulgação do Projeto**:
 <https://www.youtube.com/watch?v=n1a76wFeRuo>
 
-## English Version
+### English Version
 teste
  
