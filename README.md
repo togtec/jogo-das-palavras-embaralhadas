@@ -1,9 +1,10 @@
-# Scrambled Words Game | Jogo das Palavras Embaralhadas
+# Jogo das Palavras Embaralhadas <br> Scrambled Words Game 
 
-## Choose Your Language | Escolha seu Idioma
+## Escolha seu Idioma | Choose Your Language 
 
-- [English](#english-version)
-- [Português](#versão-em-português)
+- [<img src="https://github.com/togtec/togtec/blob/main/img/pt-br.png" alt="PT-BR" /> PT-BR](#versão-em-português)
+- [<img src="https://github.com/togtec/togtec/blob/main/img/en-us.png" alt="EN-US" /> EN-US](#versão-em-português)
+
 
 
 
@@ -35,9 +36,6 @@ www.togtec.com.br/projetos/jogo-das-palavras-embaralhadas/resumo.php
 Ver galeria completa de imagens em: <br>
 www.togtec.com.br/projetos/jogo-das-palavras-embaralhadas/imagens.php
 
-## English Version
-teste
-
 ## Funcionalidades
 1. Usuário cadastra um Jogador no sistema (define nome e apelido)
 2. Usuário seleciona o Jogador cadastrado
@@ -62,4 +60,7 @@ Executar o Jogo das Palavras Embaralhadas em sua máquina é muito fácil. Certi
 4. Execute-a como **Java Aplication**
 5. Configure a console do Eclipse — ver como na seção **Configurações** do **Vídeo de Divulgação do Projeto**:
 <https://www.youtube.com/watch?v=n1a76wFeRuo>
+
+## English Version
+teste
  
