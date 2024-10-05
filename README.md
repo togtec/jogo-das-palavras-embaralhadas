@@ -39,11 +39,11 @@ Ver galeria completa de imagens em: <br>
 ### Funcionalidades
 1. Usuário cadastra um Jogador no sistema (define nome e apelido)
 2. Usuário seleciona o Jogador cadastrado
-3. Jogador seleciona o **Nível de Experiência** do Jogador
+3. Jogador seleciona o **Nível de Experiência** do Jogador:
     - **Iniciante**: Apenas as sílabas são embaralhadas
     - **Intermediário**: As letras são embaralhadas de forma padronizada
     - **Avançado**: As letras são embaralhadas de forma aleatória
-4. Jogador seleciona o **Grau de Dificuldade** da Partida
+4. Jogador seleciona o **Grau de Dificuldade** da Partida:
     - **Fácil**: Jogador não possui limite de palpites
     - **Normal**: Jogador possui 3 palpites por palavra
     - **Difícil**: Jogador possui 10 palpites por partida
