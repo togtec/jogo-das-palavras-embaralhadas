@@ -71,7 +71,7 @@ The **Scrambled Words Game** is an original project developed as a final assignm
 
 The application allows multiple players to register, who can compete against each other in a stimulating **ranking** system.
 
-The game runs on the **console**, featuring **three scramblers** and **three different game modes**.
+The game runs on the **console**, featuring **three scramblers** and **three different match dynamics**.
 
 The Scrambled Words Game is a gem of software engineering, incorporating **CRC Modeling**, **Tell Don't Ask**, **Law of Demeter**, **Inheritance**, **Polymorphism**, and the **Factory Design Pattern**. <br>
 
